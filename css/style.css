@@ -23,14 +23,14 @@ button{
   border:1px solid black;
   padding:5px 0 6px;
   cursor:pointer;
-  background-color:#4081ec;
+  background-color:#c87195;
   color:white;
   margin:10px 0 12px 1px;
 }
 
 button:hover{
-  background-color:#f3b605;
-  color:black;
+  background-color:#fb8ab9;
+  color:#fefee6;
 }
 label{
   font-size:1.8em;
@@ -39,7 +39,7 @@ label{
 }
 .caja1{
   padding:6px 5px 8px 5px;
-  background-color:#f3b605;
+  background-color:#7b95b0;
 }
 .primera{
   border-radius:10px 10px 0 0;
@@ -50,5 +50,5 @@ label{
   border-radius:0 0 10px 10px;
   color:white;
   font-size:3em;
-  background-color:#4081ec;
+  background-color:#3f668a;
 }
